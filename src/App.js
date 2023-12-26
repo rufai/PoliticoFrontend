@@ -27,8 +27,9 @@ function App() {
       <header className="App-header">
         <p>Politico Frontend</p>
 
-        <p> checking </p>
+        <p> Loading </p>
         <p> {party} </p>
+        <p> checking </p>
       </header>
 
       <section>
