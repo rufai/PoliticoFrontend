@@ -33,10 +33,14 @@ function App() {
 
       <section>
         <p>
-          <a href="">sign-in</a>
+          <a href="" rel="noreferrer">
+            sign-in
+          </a>
         </p>
         <p>
-          <a href="">sign-out</a>
+          <a href="" rel="noreferrer">
+            sign-out
+          </a>
         </p>
       </section>
     </div>
